@@ -1,5 +1,5 @@
 
-## Hi, I'm Andrew - A Junior DevOps Consultant :books: :dart:
+## Пример :books: :dart:
 
 ### **Technical Skills**
 
