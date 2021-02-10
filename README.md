@@ -37,7 +37,7 @@
 ![Microsoft VisualStudio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual%20Studio&logoColor=white)
 
 
-[![Andrew Osborne's github stats](https://github-readme-stats.vercel.app/api?username=da-fomin)](https://github.com/da-fomin/github-readme-stats)
+[![Andrew Osborne's github stats](https://github-readme-stats.vercel.app/api?username=da-fomin)](https://github.com/da-fomin)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da-fomin)](https://github.com/da-fomin/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=da-fomin)](https://github.com/da-fomin)
 ![Visitor Count](https://profile-counter.glitch.me/da-fomin/count.svg)
